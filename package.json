@@ -18,6 +18,6 @@
         "focus"
     ],
     "dependencies": {
-        "react-native-root-siblings": "^1.2.1"
+        "react-native-root-siblings": "git+https://github.com/sckoh/react-native-root-siblings.git#fd7787f"
     }
 }
